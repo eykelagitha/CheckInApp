@@ -63,8 +63,8 @@ Pengguna dapat melakukan check-in dengan foto (dari kamera atau galeri), mencata
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/USERNAME/checkin-app.git
-cd checkin-app
+git clone https://github.com/eykelagitha/CheckInApp.git
+cd CheckInApp
 
 # 2. Install dependencies
 npm install
@@ -108,7 +108,7 @@ npx expo start
 ## 🔗 Links
 
 - **Expo Snack:** [https://snack.expo.dev/@eykel21/6f241b](https://snack.expo.dev)
-- **GitHub:** [github.com/USERNAME/checkin-app](https://github.com)
+- **GitHub:** [https://github.com/eykelagitha/CheckInApp.git](https://github.com)
 
 ---
 
